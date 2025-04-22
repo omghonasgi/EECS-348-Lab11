@@ -1,0 +1,9 @@
+body {
+    background-color: burlywood;
+    color: blue;
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("background.jpeg");
+    background-size: 100%;
+}
+
